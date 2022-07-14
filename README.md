@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vartika Gupta</h1>
-<h3 align="center">A passionate frontend developer from India 👧</h3>
+<h3 align="center"><em>A passionate Full Stack Web Developer from India 👧</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vartika2302&label=Profile%20views&color=0e75b6&style=flat" alt="vartika2302" /> </p>
 
