@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vartika2302&label=Profile%20views&color=0e75b6&style=flat" alt="vartika2302" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vartika2302" alt="vartika2302" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vartika2302&theme=monokai&margin-w=10&column=4&margin-h=10" alt="vartika2302" /></a> </p>
 
 - 🔭 I’m currently working on [Medwin-Cares project and also participating in #crackyourplacement challenge](https://github.com/vartika2302/Crack-Your-Placement)
 
