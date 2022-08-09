@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vartika2302&theme=monokai&margin-w=10&column=4&margin-h=10" alt="vartika2302" /></a> </p>
 
-- 🔭 I’m currently working on [Lightroom project](https://github.com/vartika2302/Lightroom-assignment-submission-portal) and focusing on Data Structures and Algorithm.
+- 🔭 I’m currently working on [Lightroom project](https://github.com/vartika2302/Lightroom-assignment-submission-portal) and focusing on Data Structures and Algorithms.
 
 - 🌱 I’m currently learning **React.**
 
