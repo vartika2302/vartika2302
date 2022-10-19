@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vartika Gupta</h1>
 <h3 align="center"><em>A passionate Full Stack Web Developer from India 👧</em></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vartika2302&label=Profile%20views&color=0e75b6&style=flat" alt="vartika2302" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vartika2302&theme=monokai&margin-w=10&column=4&margin-h=10" alt="vartika2302" /></a> </p>
 
 - 🔭 I’m currently working on [Lightroom project](https://github.com/vartika2302/Lightroom-assignment-submission-portal) and focusing on Data Structures and Algorithms.
